@@ -3,12 +3,14 @@
 ## 🐧 Links
 - `Project` https://zabaluevaelena.github.io/react-star-wars/
 - `Repository` https://github.com/ZabaluevaElena
+
 ---
 
 ## 🦄 API
 - https://swapi.dev (основное API)
 - https://swapi.py4e.com (запасное API - если основное не работает)
 - https://starwars-visualguide.com (изображения для API)
+
 
 ---
 
