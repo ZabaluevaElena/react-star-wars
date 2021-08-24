@@ -1,7 +1,7 @@
 # 🪐 Star Wars Application
 
 ## 🐧 Links
-- `Project` https://zabaluevaelena.github.io/react-star-wars/not-found
+- `Project` https://zabaluevaelena.github.io/react-star-wars/
 - `Repository` https://github.com/dev-pandaren/react-star-wars
 - `StoryBook` https://dev-pandaren.github.io/react-star-wars/storybook
 - `YouTube Playlist` https://www.youtube.com/playlist?list=PL7cTIfGFrdKkQAWKDu2NdFt5Cx38B-A3i
