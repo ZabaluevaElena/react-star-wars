@@ -5,35 +5,6 @@
 - `Repository` https://github.com/ZabaluevaElena
 ---
 
-## 🐶 Available Scripts and Commands
-
-```bash
-# Install
-npm i                    # install dependencies
-```
-
-```bash
-# General
-npm run start            # run app in the development mode
-npm run storybook        # run storybook
-npm run deploy           # deploy app on Github Pages
-```
-
-```bash
-# Deploy (part of "deploy" script)
-npm run build            # builds the app for production
-npm run build-storybook  # storybook build
-npm run build-gh-pages   # deploy on Github Pages
-```
-
-```bash
-# Not used
-npm run eject            # remove the single build dependency
-npm run deploy-storybook # storybook deploy
-```
-
----
-
 ## 🦄 API
 - https://swapi.dev (основное API)
 - https://swapi.py4e.com (запасное API - если основное не работает)
@@ -42,11 +13,6 @@ npm run deploy-storybook # storybook deploy
 
 ---
 
-
-## 🐗 Lighthouse Metrics Performance
-<img src="src/_temp/readme/lighthouse.png" width="500px" />
-
----
 
 ## 🐼 Рассмотренные темы
 
@@ -57,14 +23,12 @@ npm run deploy-storybook # storybook deploy
 - Context API (хук `useContext`)
 - Рефы и DOM (хук `useRef`)
 - Мемоизация (хук `useCallback`)
-- Создание собственных хуков
 - Фрагменты
 - Паттерн `Higher-Order Component`
 - Паттерн `Подъём состояния`
 - Обработка событий
 - Controlled Components
 - Подключение CSS, `css-modules`, библиотека `classnames`
-- Списки и ключи, `Reconciliation Algorithm`
 - Отложенная загрузка компонентов `React.lazy()`
 - Библиотека `prop-types` для валидации props
 
@@ -85,7 +49,6 @@ npm run deploy-storybook # storybook deploy
 ### Общее
 - Задание Alias в React-приложении (библиотека `react-app-rewire-alias`)
 - Деплой приложения на GitHub Pages (библиотека `gh-pages`)
-- Создание Ui-Kit из визуальных компонентов и публикация в `@storybook`
 - Библиотека `lodash` с готовыми функциями
 - `Visual Studio Code`. Сниппеты и плагины
 
@@ -132,15 +95,6 @@ npm run deploy-storybook # storybook deploy
 - Проверка производительности в `Lighthouse` (Google Chrome)
 
 #### Технологии
-- `TypeScript`
-- `Firebase` регистрация  
-- `Material UI`, стилизация через css-in-js
 - `Redux Thunk`
 - `React Hook Form` для обработки данных форм
 
-#### Функционал
-- Перегруппировка компонентов Header при адаптиве
-- Роутер. Анимация при переходе между страницами
-- Добавить шрифты
-- Публикация NPM-пакета для UiKit
-- .bat-файлы для запуска скриптов
